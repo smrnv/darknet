@@ -1,0 +1,5 @@
+classes= 1
+train  = dataset/NFPA/train.txt
+valid  = dataset/NFPA/test.txt
+names = cfg/nfpa.names
+backup = backup/
