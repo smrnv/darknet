@@ -1,0 +1,1 @@
+./darknet detector train cfg/nfpa.data cfg/nfpa_v3.cfg
